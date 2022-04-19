@@ -1,0 +1,54 @@
+#+TITLE: Common Lisp Recipes
+#+AUTHOR: Faye Lee <faye.v.lee@gmail.com>
+#+DATE: <2022-04-19 Tue>
+#+LATEX_HEADER: \usepackage{ctex}
+#+LATEX_HEADER: \setCJKmainfont{Hiragino Sans GB W3}
+#+LATEX_COMPILER: xelatex
+
+* Common Lisp Recipes [0/22]
+
+** TODO 01 Symbols and Packages
+
+There's one thing you definitely should *not* use symbols for: don't use them when strings would be more appropriate.
+
+** TODO 02 Conses, Lists, and Trees
+
+** TODO 03 Strings and Characters
+
+** TODO 04 Numbers and Math
+
+** TODO 05 Arrays and Vectors
+
+** TODO 06 Hash Tables, and Sets
+
+** TODO 07 Sequences and Iteration
+
+** TODO 08 The Lisp Reader
+
+** TODO 09 Printing
+
+** TODO 10 Evaluation, Compilation, Control Flow
+
+** TODO 11 Concurrency
+
+** TODO 12 Error Handing and Avoidance
+
+** TODO 13 Objects, Classes, Types
+
+** TODO 14 I/O: Streams and Files
+
+** TODO 15 Pathnames, Files, Directoriesa
+
+** TODO 16 Developing and Debugging
+
+** TODO 17 Optimization
+
+** TODO 18 ibraries
+
+** TODO 19 Interfacing with Other Languages
+
+** TODO 20 Graphical User Interfaces
+
+** TODO 21 Persistence
+
+** TODO 22 The World Outside
